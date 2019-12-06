@@ -30,4 +30,4 @@ mybatis:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 ly:
   aa:
-    chenzhengshangsahnagkal
+    尝试一下是否能写中文
